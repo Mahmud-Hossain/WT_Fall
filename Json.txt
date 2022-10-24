@@ -1,0 +1,37 @@
+[
+    {
+        "name": "MAHMUD HOSSAIN",
+        "email": "asd123@gmail.com",
+        "mobile": "123"
+    },
+    {
+        "name": "Mahmud Hossain",
+        "email": "asd123@gmail.com",
+        "mobile": "123"
+    },
+    {
+        "Name": "MAHMUD HOSSAIN",
+        "Fathername": "Father",
+        "Mothername": "Mother",
+        "Gender": null,
+	"NID": "321",
+	"DCID": "321",
+	"Email": "asd123@gmail.com",
+        "Address": "MIRPUR,  DHAKA,  BANGLADESH",        
+        "Email": "asd123@gmail.com",
+        "Mobile number": "123",
+    },
+    {
+         "Name": "",
+        "Fathername": "",
+        "Mothername": "",
+        "Gender": null,
+	"NID": "",
+	"DCID": "",
+	"Email": "",
+        "Address": "",        
+        "Email": "",
+        "Mobile number": "",
+    }
+    
+]
